@@ -1,0 +1,12 @@
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\bin\Debug\Tateti_ISP20.exe
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\bin\Debug\Tateti_ISP20.pdb
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.exe
+Z:\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.pdb
+\\Disco_externo\almacenamiento compartido\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.exe
+\\Disco_externo\almacenamiento compartido\TECNICATURAS\Reinoso Cecilia\PASANTIAS\Pasantias C#\Pasantia_2013- CeciliaReinoso\TareaObicua\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.pdb
+Z:\TECNICATURAS\Rossi Daiana\Pasantia\Pasantia2013\cliente\Tateti_isp20\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.exe
+Z:\TECNICATURAS\Rossi Daiana\Pasantia\Pasantia2013\cliente\Tateti_isp20\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.pdb
+Z:\TECNICATURAS\Rossi Daiana\Pasantia\Pasantia2013\cliente\Tateti_isp20\Tateti_ISP20\bin\Debug\Tateti_ISP20.exe
+Z:\TECNICATURAS\Rossi Daiana\Pasantia\Pasantia2013\cliente\Tateti_isp20\Tateti_ISP20\bin\Debug\Tateti_ISP20.pdb
+Z:\TECNICATURAS\Rossi Daiana\Pasantia\Pasantia2013\cliente\Tateti_isp20\Tateti_ISP20\obj\x86\Debug\ResolveAssemblyReference.cache
