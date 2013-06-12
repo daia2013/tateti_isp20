@@ -8,16 +8,19 @@ namespace Tateti_ISP20
 {
     public class Juego
     {
+        //esto es una popiedad de tipo tablero
         private Tablero tablero;
         private Jugador jugador1;
         private Jugador jugador2;
 
+        
         public Juego()
         {
             tablero = new Tablero();
             jugador1 = new Jugador("X");
             jugador2 = new Jugador("0");
         }
+        // creamos un metodo PintarTablero
         public void PintarTablero()
         {
             tablero.Limpiar();
@@ -40,6 +43,7 @@ namespace Tateti_ISP20
             }
             tablero.Pintar();
         }
+        //SeleccionarFicha
         public int SeleccionarFicha (int jugador_actual)
     
         {
